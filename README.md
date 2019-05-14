@@ -8,5 +8,5 @@ Install NPM
 ```
 git clone https://github.com/MariusBallot/Gulp-Starter.git
 nmp install
-gulp
+npm start
 ```
